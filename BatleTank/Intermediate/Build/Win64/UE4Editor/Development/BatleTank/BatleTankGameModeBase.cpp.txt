@@ -1,0 +1,7 @@
+F:\UE4.22.1\01-BattleTank\BatleTank\Intermediate\Build\Win64\UE4Editor\Development\BatleTank\Definitions.BatleTank.h
+f:\ue4.22.1\01-battletank\batletank\source\batletank\BatleTankGameModeBase.h
+F:\UE4.22.1\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+F:\UE4.22.1\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+F:\UE4.22.1\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+F:\UE4.22.1\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+F:\UE4.22.1\01-BattleTank\BatleTank\Intermediate\Build\Win64\UE4Editor\Inc\BatleTank\BatleTankGameModeBase.generated.h

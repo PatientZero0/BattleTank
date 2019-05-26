@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BatleTank-4443.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UE4.22.1\01-BattleTank\BatleTank\Intermediate\Build\Win64\BatleTankEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\UE4.22.1\01-BattleTank\BatleTank\Intermediate\Build\Win64\UE4Editor\Development\BatleTank\BatleTank.cpp.obj"
+"F:\UE4.22.1\01-BattleTank\BatleTank\Intermediate\Build\Win64\UE4Editor\Development\BatleTank\BatleTankGameModeBase.cpp.obj"
+"F:\UE4.22.1\01-BattleTank\BatleTank\Intermediate\Build\Win64\UE4Editor\Development\BatleTank\BatleTank.init.gen.cpp.obj"
+"F:\UE4.22.1\01-BattleTank\BatleTank\Intermediate\Build\Win64\UE4Editor\Development\BatleTank\BatleTankGameModeBase.gen.cpp.obj"
+"F:\UE4.22.1\01-BattleTank\BatleTank\Intermediate\Build\Win64\UE4Editor\Development\BatleTank\Default.rc2.res"
+/OUT:"F:\UE4.22.1\01-BattleTank\BatleTank\Intermediate\Build\Win64\UE4Editor\Development\BatleTank\UE4Editor-BatleTank-4443.lib"
+/INCLUDE:IMPLEMENT_MODULE_BatleTank
